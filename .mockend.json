@@ -1,5 +1,5 @@
 {
- "countrywise_calendar_ids": {
+ "CountrywiseCalendar": {
     "name": "string",
     "calendar_id": "string",
     "calendar_code": "string"
