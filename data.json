@@ -1,1 +1,198 @@
 
+[
+    {
+        "name": "Australian Holidays",
+        "calendar_id": "en.australian#holiday@group.v.calendar.google.com",
+        "code": "en.australian"
+    },
+    {
+        "name": "Austrian Holidays",
+        "calendar_id": "en.austrian#holiday@group.v.calendar.google.com",
+        "code": "en.austrian"
+    },
+    {
+        "name": "Brazilian Holidays",
+        "calendar_id": "en.brazilian#holiday@group.v.calendar.google.com",
+        "code": "en.brazilian"
+    },
+    {
+        "name": "Canadian Holidays",
+        "calendar_id": "en.canadian#holiday@group.v.calendar.google.com",
+        "code": "en.canadian"
+    },
+    {
+        "name": "China Holidays",
+        "calendar_id": "en.china#holiday@group.v.calendar.google.com",
+        "code": "en.china"
+    },
+    {
+        "name": "Christian Holidays",
+        "calendar_id": "en.christian#holiday@group.v.calendar.google.com",
+        "code": "en.christian"
+    },
+    {
+        "name": "Danish Holidays",
+        "calendar_id": "en.danish#holiday@group.v.calendar.google.com",
+        "code": "en.danish"
+    },
+    {
+        "name": "Dutch Holidays",
+        "calendar_id": "en.dutch#holiday@group.v.calendar.google.com",
+        "code": "en.dutch"
+    },
+    {
+        "name": "Finnish Holidays",
+        "calendar_id": "en.finnish#holiday@group.v.calendar.google.com",
+        "code": "en.finnish"
+    },
+    {
+        "name": "French Holidays",
+        "calendar_id": "en.french#holiday@group.v.calendar.google.com",
+        "code": "en.french"
+    },
+    {
+        "name": "German Holidays",
+        "calendar_id": "en.german#holiday@group.v.calendar.google.com",
+        "code": "en.german"
+    },
+    {
+        "name": "Greek Holidays",
+        "calendar_id": "en.greek#holiday@group.v.calendar.google.com",
+        "code": "en.greek"
+    },
+    {
+        "name": "Hong Kong (C) Holidays",
+        "calendar_id": "en.hong_kong_c#holiday@group.v.calendar.google.com",
+        "code": "en.hong_kong_c"
+    },
+    {
+        "name": "Hong Kong Holidays",
+        "calendar_id": "en.hong_kong#holiday@group.v.calendar.google.com",
+        "code": "en.hong_kong"
+    },
+    {
+        "name": "Indian Holidays",
+        "calendar_id": "en.indian#holiday@group.v.calendar.google.com",
+        "code": "en.indian"
+    },
+    {
+        "name": "Indonesian Holidays",
+        "calendar_id": "en.indonesian#holiday@group.v.calendar.google.com",
+        "code": "en.indonesian"
+    },
+    {
+        "name": "Iranian Holidays",
+        "calendar_id": "en.iranian#holiday@group.v.calendar.google.com",
+        "code": "en.iranian"
+    },
+    {
+        "name": "Irish Holidays",
+        "calendar_id": "en.irish#holiday@group.v.calendar.google.com",
+        "code": "en.irish"
+    },
+    {
+        "name": "Islamic Holidays",
+        "calendar_id": "en.islamic#holiday@group.v.calendar.google.com",
+        "code": "en.islamic"
+    },
+    {
+        "name": "Italian Holidays",
+        "calendar_id": "en.italian#holiday@group.v.calendar.google.com",
+        "code": "en.italian"
+    },
+    {
+        "name": "Japanese Holidays",
+        "calendar_id": "en.japanese#holiday@group.v.calendar.google.com",
+        "code": "en.japanese"
+    },
+    {
+        "name": "Jewish Holidays",
+        "calendar_id": "en.jewish#holiday@group.v.calendar.google.com",
+        "code": "en.jewish"
+    },
+    {
+        "name": "Malaysian Holidays",
+        "calendar_id": "en.malaysia#holiday@group.v.calendar.google.com",
+        "code": "en.malaysia"
+    },
+    {
+        "name": "Mexican Holidays",
+        "calendar_id": "en.mexican#holiday@group.v.calendar.google.com",
+        "code": "en.mexican"
+    },
+    {
+        "name": "New Zealand Holidays",
+        "calendar_id": "en.new_zealand#holiday@group.v.calendar.google.com",
+        "code": "en.new_zealand"
+    },
+    {
+        "name": "Norwegian Holidays",
+        "calendar_id": "en.norwegian#holiday@group.v.calendar.google.com",
+        "code": "en.norwegian"
+    },
+    {
+        "name": "Philippines Holidays",
+        "calendar_id": "en.philippines#holiday@group.v.calendar.google.com",
+        "code": "en.philippines"
+    },
+    {
+        "name": "Polish Holidays",
+        "calendar_id": "en.polish#holiday@group.v.calendar.google.com",
+        "code": "en.polish"
+    },
+    {
+        "name": "Portuguese Holidays",
+        "calendar_id": "en.portuguese#holiday@group.v.calendar.google.com",
+        "code": "en.portuguese"
+    },
+    {
+        "name": "Russian Holidays",
+        "calendar_id": "en.russian#holiday@group.v.calendar.google.com",
+        "code": "en.russian"
+    },
+    {
+        "name": "Singapore Holidays",
+        "calendar_id": "en.singapore#holiday@group.v.calendar.google.com",
+        "code": "en.singapore"
+    },
+    {
+        "name": "South Africa Holidays",
+        "calendar_id": "en.sa#holiday@group.v.calendar.google.com",
+        "code": "en.sa"
+    },
+    {
+        "name": "South Korean Holidays",
+        "calendar_id": "en.south_korea#holiday@group.v.calendar.google.com",
+        "code": "en.south_korea"
+    },
+    {
+        "name": "Spain Holidays",
+        "calendar_id": "en.spain#holiday@group.v.calendar.google.com",
+        "code": "en.spain"
+    },
+    {
+        "name": "Swedish Holidays",
+        "calendar_id": "en.swedish#holiday@group.v.calendar.google.com",
+        "code": "en.swedish"
+    },
+    {
+        "name": "Taiwan Holidays",
+        "calendar_id": "en.taiwan#holiday@group.v.calendar.google.com",
+        "code": "en.taiwan"
+    },
+    {
+        "name": "Thai Holidays",
+        "calendar_id": "en.thai#holiday@group.v.calendar.google.com",
+        "code": "en.thai"
+    },
+    {
+        "name": "UK Holidays",
+        "calendar_id": "en.uk#holiday@group.v.calendar.google.com",
+        "code": "en.uk"
+    },
+    {
+        "name": "US Holidays",
+        "calendar_id": "en.usa#holiday@group.v.calendar.google.com",
+        "code": "en.usa"
+    },
+]
